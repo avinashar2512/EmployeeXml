@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addressEmployees>
+    <employees>
+        <age>28</age>
+        <designation>SSE</designation>
+        <name>Arun</name>
+        <doorNo>1</doorNo>
+        <street>s12</street>
+        <town>t12</town>
+        <state>c12</state>
+    </employees>
+    <employees>
+        <age>30</age>
+        <designation>SSE</designation>
+        <name>Avinash</name>
+        <doorNo>1</doorNo>
+        <street>s1</street>
+        <town>t1</town>
+        <state>c1</state>
+    </employees>
+</addressEmployees>
